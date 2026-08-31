@@ -1,24 +1,27 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0e7490,100:2563eb&height=220&section=header&text=Rituraj%20Thakur&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%2FML%20Student%20%7C%20Builder%20%7C%20Hackathon%20Enthusiast&descAlignY=60&descSize=18" width="100%"/>
-
-<a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=20&pause=1200&color=58A6FF&center=true&vCenter=true&width=700&height=45&lines=Building+AI-powered+products+%F0%9F%A4%96;Learning+by+building+%26+shipping+%F0%9F%9A%80;Turning+ideas+into+working+software+%F0%9F%92%BB;Always+building+something+new+%E2%9A%A1" alt="Typing SVG" />
-</a>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0e7490,100:2563eb&height=230&section=header&text=Rituraj%20Thakur&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%2FML%20Student%20%7C%20Builder%20%7C%20Hackathon%20Enthusiast&descAlignY=61&descSize=18" width="100%"/>
 
 <br>
 
+<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=500&size=19&pause=1200&color=58A6FF&center=true&vCenter=true&width=720&height=45&lines=Building+AI-powered+products+%F0%9F%A4%96;Learning+by+building+%26+shipping+%F0%9F%9A%80;Turning+problem+statements+into+working+software+%F0%9F%92%BB;Always+working+on+the+next+thing+%E2%9A%A1" alt="Typing animation"/>
+
+<br><br>
+
 <a href="https://github.com/riturajthakur1">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-riturajthakur1-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
+&nbsp;
 <a href="https://www.linkedin.com/in/rituraj-thakur-8546a2383/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
+&nbsp;
 <a href="mailto:riturajthakur451@gmail.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
+&nbsp;
 <a href="https://www.kaggle.com/riturajkamodthakur">
-<img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/>
+<img src="https://img.shields.io/badge/Kaggle-Profile-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/>
 </a>
 
 <br><br>
@@ -29,13 +32,13 @@
 
 ---
 
-## `01` — About Me
+## 👋 About Me
 
 I'm **Rituraj Thakur**, a BTech student specializing in **Artificial Intelligence & Machine Learning**.
 
-I enjoy building practical software around **AI, automation and real-world problems**.
+I enjoy building practical software around **AI, automation, APIs and real-world problems**.
 
-I learn best by building — experimenting with an idea, turning it into a prototype, breaking it, improving it, and eventually shipping it.
+I learn by shipping — turning an idea into a prototype, testing it, breaking it, improving it and putting it in front of people.
 
 ```text
 ┌──────────────────────────────────────────────────────┐
@@ -43,87 +46,73 @@ I learn best by building — experimenting with an idea, turning it into a proto
 │  CURRENTLY LEARNING     ML · DL · PyTorch · FastAPI │
 │  INTERESTED IN          AI · CV · GenAI · Software  │
 │  COMMUNITY              Google Student Ambassador   │
-│  APPROACH               Build → Break → Learn → Ship│
+│  PHILOSOPHY             Build → Break → Learn → Ship│
 └──────────────────────────────────────────────────────┘
 ```
 
 ---
 
-# `02` — Featured Projects
-
-<div align="center">
+# 🚀 What I'm Building
 
 ### 🛡️ SignalCheck
 
-**A hackathon prototype for safer digital communication.**
+A hackathon prototype that helps students inspect **suspicious email, SMS and chat messages** before clicking links, paying money or sharing information.
 
-SignalCheck helps students inspect suspicious **emails, SMS messages and chats** before clicking links, paying money, or sharing information.
+**Built around:**
 
-<br>
+`Python` `FastAPI` `REST API` `Classification` `Input Validation` `Security`
 
-<img src="https://img.shields.io/badge/Classification-Safe%20%7C%20Suspicious%20%7C%20High%20Risk-0e7490?style=flat-square"/>
-<img src="https://img.shields.io/badge/Backend-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
-<img src="https://img.shields.io/badge/API-REST-2563eb?style=flat-square"/>
-<img src="https://img.shields.io/badge/Focus-Phishing%20Awareness-red?style=flat-square"/>
+**Features include**
 
-<br><br>
+* Safe / Suspicious / High Risk classification
+* Highlighted warning signs
+* Transparent explanations
+* One safer next action
+* `POST /api/analyze`
+* `GET /api/health`
+* Research and evidence artifacts
+* Automated API and classification checks
+* Lint and dependency checks
 
 <a href="https://github.com/riturajthakur1/signalcheck">
 <img src="https://img.shields.io/badge/VIEW%20PROJECT-0d1117?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-</div>
-
-<br>
-
-<div align="center">
+---
 
 ### 📊 Lernova Attendsheets
 
-**A full-stack attendance management platform for educational institutions.**
+A full-stack attendance platform designed around real educational workflows.
 
-Designed around students, teachers and institutional workflows with session-based attendance and modern web infrastructure.
+**Built with**
 
-<br>
-
-<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white"/>
-<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
-<img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black"/>
-
-<br><br>
+`Next.js` `FastAPI` `MongoDB` `Firebase`
 
 <a href="https://attendsheets.vercel.app/">
 <img src="https://img.shields.io/badge/LIVE%20DEMO-0d1117?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
-</div>
-
-<br>
-
-<div align="center">
+---
 
 ### 👁️ Drishti
 
-An AI/ML project where I'm experimenting with practical machine-learning workflows and intelligent systems.
+An AI/ML project where I'm experimenting with intelligent systems, machine-learning workflows and practical model development.
+
+**Focus**
 
 `Python` `Machine Learning` `AI`
-
-<br>
 
 <a href="https://github.com/riturajthakur1/drishti">
 <img src="https://img.shields.io/badge/VIEW%20REPOSITORY-0d1117?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-</div>
-
 ---
 
-# `03` — Tech Stack
+# 🧰 Tech Stack
 
 ### AI / Machine Learning
 
-<p align="left">
+<p>
 <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv"/>
 </p>
 
@@ -139,21 +128,39 @@ An AI/ML project where I'm experimenting with practical machine-learning workflo
 <img src="https://skillicons.dev/icons?i=nextjs,fastapi,nodejs,html,css"/>
 </p>
 
-### Databases / Cloud
+### Databases & Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=mongodb,firebase"/>
+<img src="https://skillicons.dev/icons?i=mongodb,firebase,git,github,figma,linux,vscode"/>
 </p>
 
-### Tools
+### Other
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,figma,linux,vscode"/>
+<img src="https://skillicons.dev/icons?i=matlab"/>
 </p>
 
 ---
 
-# `04` — GitHub Analytics
+# 📊 GitHub, Live
+
+<div align="center">
+
+<!-- AUTO_STATS_START -->
+
+|         Metric         |      Value      |
+| :--------------------: | :-------------: |
+| 📦 Public Repositories |      **11**     |
+|     ⭐ Stars Earned     |      **1**      |
+|      👥 Followers      |      **0**      |
+|      👤 Following      |      **2**      |
+|    🗓️ GitHub Since    | **See profile** |
+
+<!-- AUTO_STATS_END -->
+
+</div>
+
+<br>
 
 <div align="center">
 
@@ -173,115 +180,114 @@ An AI/ML project where I'm experimenting with practical machine-learning workflo
 
 ---
 
-# `05` — GitHub Trophies
+# 📂 Everything That's Public
 
-<div align="center">
+<!-- REPOS_START -->
 
-<img src="https://github-profile-trophy.vercel.app/?username=riturajthakur1&theme=darkhub&no-frame=true&no-bg=true&margin-w=10&row=2&column=6" />
+| Repository              | Description                                         | Language |  ⭐  |
+| :---------------------- | :-------------------------------------------------- | :------: | :-: |
+| Loading repositories... | The GitHub Action will populate this automatically. |     —    |  —  |
 
-</div>
+<!-- REPOS_END -->
 
-GitHub Profile Trophy dynamically generates achievement cards based on your GitHub activity.
-
----
-
-# `06` — Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=riturajthakur1&bg_color=0d1117&color=58a6ff&line=2563eb&point=ffffff&area=true&hide_border=true&custom_title=Contribution%20Activity" width="100%"/>
-
-</div>
+<sub>↳ This table updates automatically from the GitHub API.</sub>
 
 ---
 
-# `07` — Contribution Snake 🐍
+# 🏆 GitHub Trophies
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/riturajthakur1/riturajthakur1/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/riturajthakur1/riturajthakur1/output/github-contribution-grid-snake.svg">
-  <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/riturajthakur1/riturajthakur1/output/github-contribution-grid-snake.svg">
-</picture>
+<img src="https://github-profile-trophy.vercel.app/?username=riturajthakur1&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&row=2&column=6" alt="GitHub Trophies"/>
 
 </div>
 
 ---
 
-# `08` — Currently Learning
+# 🐍 Contribution Activity
 
 <div align="center">
-
-```text
-                    ┌─────────────────┐
-                    │   AI / ML       │
-                    └────────┬────────┘
-                             │
-              ┌──────────────┼──────────────┐
-              ↓              ↓              ↓
-        Machine Learning  Deep Learning   GenAI
-              │              │              │
-              └──────────────┼──────────────┘
-                             ↓
-                         PyTorch
-                             │
-                             ↓
-                    AI-powered Products
-```
-
-</div>
-
-* 🧠 Machine Learning
-* 🔥 Deep Learning
-* ⚡ PyTorch
-* 👁️ Computer Vision
-* 📊 NumPy & Pandas
-* 🚀 FastAPI
-* 🤖 Generative AI
-* 🏗️ Production AI applications
-
----
-
-# `09` — Beyond Code
-
-<div align="center">
-
-| 🏆 Google Student Ambassador |     ⚡ Hackathons    |     🚀 Building     |
-| :--------------------------: | :-----------------: | :-----------------: |
-|      Developer community     | Real-world problems | AI-powered products |
-|       Student ecosystem      |   Rapid prototypes  |  Learn by shipping  |
-
-</div>
-
----
-
-# `10` — 2026 Mission
-
-```text
-01  →  Become genuinely strong at Machine Learning
-02  →  Go deeper into Deep Learning & Computer Vision
-03  →  Build serious AI-powered products
-04  →  Contribute to Open Source
-05  →  Build stronger hackathon projects
-06  →  Land a product-focused AI/ML internship
-07  →  Become a better software engineer
-```
-
----
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563eb,50:0e7490,100:0d1117&height=120&section=footer" width="100%"/>
-
-### Build. Break. Learn. Ship.
-
-**Always working on the next thing.**
-
-<br>
 
 <a href="https://github.com/riturajthakur1">
-<img src="https://img.shields.io/badge/Follow%20my%20work-181717?style=for-the-badge&logo=github&logoColor=white"/>
+
+<img src="https://raw.githubusercontent.com/riturajthakur1/riturajthakur1/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake"/>
+
 </a>
+
+</div>
+
+---
+
+# 🌱 Currently Learning
+
+```text
+Machine Learning
+       ↓
+Deep Learning
+       ↓
+PyTorch
+       ↓
+Computer Vision
+       ↓
+Generative AI
+       ↓
+Production AI Applications
+```
+
+I'm currently going deeper into:
+
+`Machine Learning` · `Deep Learning` · `PyTorch` · `Computer Vision` · `NumPy` · `Pandas` · `FastAPI` · `Generative AI`
+
+---
+
+# 🏆 Beyond Code
+
+### Google Student Ambassador
+
+Helping students explore Google's technologies, programs and developer ecosystem.
+
+### Hackathons
+
+I enjoy taking ambiguous problem statements and turning them into functional prototypes under tight deadlines.
+
+### Learning Philosophy
+
+> **Don't just learn the technology. Build something with it.**
+
+---
+
+# 🎯 2026
+
+```text
+[ ] Become genuinely strong at Machine Learning
+[ ] Go deeper into Deep Learning & Computer Vision
+[ ] Build serious AI-powered products
+[ ] Contribute to Open Source
+[ ] Build stronger hackathon projects
+[ ] Land a product-focused AI/ML internship
+[ ] Become a better software engineer
+```
+
+---
+
+<div align="center">
+
+### Let's build something interesting.
+
+<a href="mailto:riturajthakur451@gmail.com">
+<img src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/rituraj-thakur-8546a2383/">
+<img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/riturajthakur1">
+<img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<br><br>
+
+<sub>Build → Break → Learn → Ship → Repeat</sub>
 
 </div>
