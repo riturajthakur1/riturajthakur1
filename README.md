@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,45:0f766e,100:2563eb&height=230&section=header&text=Rituraj%20Thakur&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%2FML%20Student%20%7C%20Builder%20%7C%20Hackathon%20Enthusiast&descAlignY=61&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,45:0f766e,100:2563eb&height=220&section=header&text=Rituraj%20Thakur&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%2FML%20Student%20%7C%20Builder%20%7C%20Hackathon%20Enthusiast&descAlignY=61&descSize=17" width="100%"/>
 
 <br>
 
@@ -33,9 +33,9 @@
 
 I'm **Rituraj Thakur**, a BTech student specializing in **Artificial Intelligence & Machine Learning**.
 
-I like building practical software around **AI, automation, APIs and real-world problems**.
+I enjoy building practical software around **AI, automation, APIs and real-world problems**.
 
-My learning style is simple:
+My learning philosophy is simple:
 
 > **Build → Break → Learn → Improve → Ship**
 
@@ -50,80 +50,74 @@ COMMUNITY              → Google Student Ambassador
 
 # 🚀 Featured Projects
 
-<div align="center">
-
 ## 🛡️ SignalCheck
 
-### *Drishti — SignalCheck*
+### Drishti — SignalCheck
 
 A hackathon prototype that helps students inspect **suspicious email, SMS and chat messages** before clicking links, paying money or sharing information.
 
-**Core features**
+### What it includes
 
-`Safe / Suspicious / High Risk`
-`Warning Signs`
-`Transparent Explanations`
-`Safer Next Action`
+* Safe / Suspicious / High Risk classification
+* Highlighted warning signs
+* Transparent explanations
+* One safer next action
+* `POST /api/analyze`
+* `GET /api/health`
+* Research, evidence and contradiction artifacts
+* Input-validation and classification checks
+* Automated build, API, lint and dependency checks
 
-**Engineering**
+### Built with
 
-`FastAPI` `Python` `REST API` `Input Validation` `Automated Testing`
+`Python` `FastAPI` `REST API` `Classification` `Input Validation` `Testing`
 
+<div align="left">
 <a href="https://github.com/riturajthakur1/drishti">
 <img src="https://img.shields.io/badge/VIEW%20PROJECT-0d1117?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-
 </div>
 
 ---
-
-<div align="center">
 
 ## 📊 Lernova Attendsheets
 
 A full-stack attendance platform designed around real educational workflows for students, teachers and institutions.
 
-**Built with**
+### Built with
 
 `Next.js` `FastAPI` `MongoDB` `Firebase`
 
+<div align="left">
 <a href="https://attendsheets.vercel.app/">
 <img src="https://img.shields.io/badge/LIVE%20DEMO-0d1117?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
-
 </div>
 
 ---
-
-<div align="center">
 
 ## 🧠 The Unbreakable Problem Statement Solver
 
 An evidence-first framework for turning unfamiliar hackathon problem statements into **researched, technically feasible and demo-ready solutions**.
 
-**Focus**
+### Focus
 
-`Research`
-`Evidence`
-`Contradiction Analysis`
-`MVP Definition`
-`Architecture`
-`Demo Preparation`
+`Research` · `Evidence` · `Contradiction Analysis` · `MVP` · `Architecture` · `Demo Preparation`
 
+<div align="left">
 <a href="https://github.com/riturajthakur1/The-Unbreakable-Problem-Statement-Solver-v1">
 <img src="https://img.shields.io/badge/VIEW%20PROJECT-0d1117?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-
 </div>
 
 ---
 
 # 🧰 Tech Stack
 
-### AI / ML
+### AI / Machine Learning
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv"/>
+<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv" />
 </p>
 
 <p>
@@ -135,19 +129,19 @@ An evidence-first framework for turning unfamiliar hackathon problem statements 
 ### Development
 
 <p>
-<img src="https://skillicons.dev/icons?i=nextjs,fastapi,nodejs,html,css"/>
+<img src="https://skillicons.dev/icons?i=nextjs,fastapi,nodejs,html,css" />
 </p>
 
 ### Databases & Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=mongodb,firebase,git,github,figma,linux,vscode"/>
+<img src="https://skillicons.dev/icons?i=mongodb,firebase,git,github,figma,linux,vscode" />
 </p>
 
 ### Other
 
 <p>
-<img src="https://skillicons.dev/icons?i=matlab"/>
+<img src="https://skillicons.dev/icons?i=matlab" />
 </p>
 
 ---
@@ -156,9 +150,9 @@ An evidence-first framework for turning unfamiliar hackathon problem statements 
 
 <div align="center">
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=riturajthakur1&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&rank_icon=github&theme=github_dark" />
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=riturajthakur1&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&rank_icon=github&theme=github_dark" />
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=riturajthakur1&layout=compact&langs_count=8&hide_border=true&theme=github_dark" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=riturajthakur1&layout=compact&langs_count=8&hide_border=true&theme=github_dark" />
 
 </div>
 
@@ -166,13 +160,33 @@ An evidence-first framework for turning unfamiliar hackathon problem statements 
 
 <div align="center">
 
-<img width="70%" src="https://streak-stats.demolab.com?user=riturajthakur1&theme=github-dark-blue&hide_border=true&border_radius=10"/>
+<img width="70%" src="https://streak-stats.demolab.com?user=riturajthakur1&theme=github-dark-blue&hide_border=true&border_radius=10" alt="GitHub Streak"/>
 
 </div>
 
 ---
 
-# 📂 My Repositories
+# 📈 GitHub Contributions
+
+<div align="center">
+
+<img
+src="https://ghchart.rshah.org/2ea043/riturajthakur1"
+alt="Rituraj Thakur GitHub contribution graph"
+width="100%"
+/>
+
+</div>
+
+<br>
+
+<p align="center">
+<sub>My GitHub contribution activity</sub>
+</p>
+
+---
+
+# 📂 Explore My Repositories
 
 <div align="center">
 
@@ -230,7 +244,9 @@ Helping students discover Google's technologies, programs and developer ecosyste
 
 ### Hackathons
 
-I enjoy taking **ambiguous problem statements → research → MVP → prototype → demo**.
+I enjoy taking:
+
+`Problem → Research → MVP → Prototype → Demo`
 
 ### Builder Mindset
 
@@ -254,7 +270,7 @@ I enjoy taking **ambiguous problem statements → research → MVP → prototype
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563eb,50:0f766e,100:0d1117&height=130&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563eb,50:0f766e,100:0d1117&height=120&section=footer" width="100%"/>
 
 ### Build. Break. Learn. Ship.
 
