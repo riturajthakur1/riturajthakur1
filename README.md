@@ -1,36 +1,277 @@
-<h1 align="center">Hi 👋, I'm Rituraj Thakur</h1>
-<h3 align="center">BTech AIML Student | Building AI-powered products & learning by shipping</h3>
+<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=riturajthakur1&label=Profile%20views&color=0e75b6&style=flat" alt="riturajthakur1" /> </p>
+# Hi 👋, I'm Rituraj Thakur
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=riturajthakur1" alt="riturajthakur1" /></a> </p>
+### BTech AIML Student · AI/ML Builder · Hackathon Enthusiast
 
-<p align="left"> <a href="https://twitter.com/vvv_cube0" target="blank"><img src="https://img.shields.io/twitter/follow/vvv_cube0?logo=twitter&style=for-the-badge" alt="vvv_cube0" /></a> </p>
+**Building AI-powered products, learning by shipping, and turning ideas into working software.**
 
-- 🔭 I’m currently working on [Drishti](https://github.com/riturajthakur1/drishti)
-
-- 🌱 I’m currently learning **I’m currently learning Machine Learning, Deep Learning, NumPy, Pandas, PyTorch & FastAPI**
-
-- 👯 I’m looking to collaborate on [Lernova Attendsheets](https://attendsheets.vercel.app/)
-
-- 💬 Ask me about **Ask me about Python, AI/ML, Hackathons & Building AI Products**
-
-- 📫 How to reach me **riturajthakur451@gmail.com**
-
-- ⚡ Fun fact **I’m a Google Student Ambassador and a huge fan of building things from scratch.**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/vvv_cube0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="vvv_cube0" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/rituraj thakur" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rituraj thakur" height="30" width="40" /></a>
-<a href="https://kaggle.com/riturajkamodthakur" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="riturajkamodthakur" height="30" width="40" /></a>
+<p>
+  <a href="https://github.com/riturajthakur1">
+    <img src="https://komarev.com/ghpvc/?username=riturajthakur1&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
+  </a>
+  <a href="https://github.com/riturajthakur1?tab=followers">
+    <img src="https://img.shields.io/github/followers/riturajthakur1?label=Followers&style=flat" alt="GitHub Followers"/>
+  </a>
+  <a href="https://github.com/riturajthakur1?tab=repositories">
+    <img src="https://img.shields.io/badge/Public%20Repos-View-0e75b6?style=flat" alt="Repositories"/>
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> </p>
+<p>
+  <a href="mailto:riturajthakur451@gmail.com">
+    <img src="https://img.shields.io/badge/Email-riturajthakur451%40gmail.com-red?style=flat&logo=gmail" alt="Email"/>
+  </a>
+  <a href="https://www.linkedin.com/in/rituraj-thakur/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin" alt="LinkedIn"/>
+  </a>
+  <a href="https://twitter.com/vvv_cube0">
+    <img src="https://img.shields.io/badge/X-Follow-black?style=flat&logo=x" alt="X"/>
+  </a>
+  <a href="https://www.kaggle.com/riturajkamodthakur">
+    <img src="https://img.shields.io/badge/Kaggle-Profile-20BEFF?style=flat&logo=kaggle" alt="Kaggle"/>
+  </a>
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=riturajthakur1&show_icons=true&locale=en&layout=compact" alt="riturajthakur1" /></p>
+</div>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=riturajthakur1&show_icons=true&locale=en" alt="riturajthakur1" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=riturajthakur1&" alt="riturajthakur1" /></p>
+## 👨‍💻 About Me
+
+I'm **Rituraj Thakur**, a BTech student specializing in **Artificial Intelligence & Machine Learning**.
+
+I enjoy building products rather than just learning technologies in isolation. Most of my learning happens through **projects, hackathons, experimentation, and shipping things that actually work.**
+
+* 🔭 Currently building **[Drishti](https://github.com/riturajthakur1/drishti)**
+* 🌱 Learning **Machine Learning, Deep Learning, NumPy, Pandas, PyTorch & FastAPI**
+* 🤝 Looking to collaborate on **[Lernova Attendsheets](https://attendsheets.vercel.app/)**
+* 💬 Ask me about **Python, AI/ML, Hackathons & Building AI Products**
+* 🏆 **Google Student Ambassador**
+* ⚡ I enjoy turning ideas into real products from scratch
+
+---
+
+## 🚀 Featured Projects
+
+<table>
+<tr>
+<td width="50%">
+
+### 👁️ Drishti
+
+AI-powered solution focused on intelligent eye/medical analysis.
+
+**Tech:** Python · AI/ML · Computer Vision
+
+<a href="https://github.com/riturajthakur1/drishti">
+<img src="https://img.shields.io/badge/View%20Repository-181717?style=flat&logo=github"/>
+</a>
+
+</td>
+
+<td width="50%">
+
+### 📊 Lernova Attendsheets
+
+A full-stack attendance management platform designed for students, teachers and institutions.
+
+**Tech:** Next.js · FastAPI · MongoDB · Firebase
+
+<a href="https://attendsheets.vercel.app/">
+<img src="https://img.shields.io/badge/Live%20Demo-Visit-0e75b6?style=flat"/>
+</a>
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 🤖 AI Projects
+
+Experimenting with AI-powered applications, APIs, automation and intelligent workflows.
+
+**Focus:** Generative AI · ML · APIs · Product Development
+
+</td>
+
+<td width="50%">
+
+### 🏆 Hackathon Projects
+
+Building prototypes under tight deadlines and solving real-world problem statements.
+
+**Focus:** AI · Full Stack · Rapid Prototyping
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🛠️ Tech Stack
+
+### Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,cpp,c,html,css" />
+</p>
+
+### AI / Machine Learning
+
+<p>
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv" />
+</p>
+
+<p>
+<img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas"/>
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikit-learn"/>
+</p>
+
+### Development & Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=nextjs,fastapi,nodejs,firebase,mongodb" />
+</p>
+
+### Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,figma,linux,vscode" />
+</p>
+
+---
+
+# 📊 GitHub Analytics
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=riturajthakur1&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" height="180"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=riturajthakur1&layout=compact&hide_border=true&langs_count=8" height="180"/>
+
+</div>
+
+---
+
+## 🔥 Contribution Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=riturajthakur1&hide_border=true" alt="GitHub Contribution Streak"/>
+
+</div>
+
+---
+
+## 📈 Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=riturajthakur1&hide_border=true&area=true" alt="Contribution Activity Graph"/>
+
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/riturajthakur1/riturajthakur1/output/github-contribution-grid-snake.svg" alt="Contribution Snake"/>
+
+</div>
+
+---
+
+## 🏆 GitHub Achievements
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=riturajthakur1&theme=flat&no-frame=true&no-bg=true&margin-w=10&row=1&column=7" alt="GitHub Trophies"/>
+
+</div>
+
+---
+
+## 📌 GitHub Overview
+
+<div align="center">
+
+|                             📦 Repositories                             |                          ⭐ Stars                          |                            👥 Followers                           |                  🔀 Contributions                  |
+| :---------------------------------------------------------------------: | :-------------------------------------------------------: | :---------------------------------------------------------------: | :------------------------------------------------: |
+| [View Repositories](https://github.com/riturajthakur1?tab=repositories) | [View Stars](https://github.com/riturajthakur1?tab=stars) | [View Followers](https://github.com/riturajthakur1?tab=followers) | [View Activity](https://github.com/riturajthakur1) |
+
+</div>
+
+---
+
+## 🌱 Currently Learning
+
+```text
+Machine Learning
+       ↓
+Deep Learning
+       ↓
+PyTorch
+       ↓
+Computer Vision
+       ↓
+Generative AI
+       ↓
+AI-powered Products
+```
+
+Alongside AI/ML, I'm improving my skills in:
+
+* Python & Data Structures
+* FastAPI & Backend Development
+* Full-stack product development
+* APIs & cloud services
+* Git & GitHub
+* System and product design
+
+---
+
+## 🎯 2026 Goals
+
+* 🚀 Build and ship more AI-powered products
+* 🧠 Get stronger at Machine Learning & Deep Learning
+* 🏆 Build impactful hackathon projects
+* 🌐 Contribute to open source
+* 💼 Land a strong product/AI internship
+* 📚 Become a better software engineer through consistent building
+
+---
+
+## 🤝 Let's Connect
+
+<div align="center">
+
+I'm always open to **interesting projects, hackathons, collaborations and conversations about AI/ML.**
+
+<br>
+
+<a href="mailto:riturajthakur451@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail"/>
+</a>
+
+<a href="https://www.linkedin.com/in/rituraj-thakur/">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="https://github.com/riturajthakur1">
+<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github"/>
+</a>
+
+</div>
+
+<br>
+
+<div align="center">
+
+### ✨ Build. Break. Learn. Ship.
+
+</div>
